@@ -1,0 +1,2 @@
+com.machinezoo.sourceafis.FingerprintTemplate
+com.machinezoo.sourceafis.FingerprintTemplate$ConsideredOrientation
